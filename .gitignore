@@ -2,9 +2,9 @@
 # https://help.github.com/articles/ignoring-files
 # Example .gitignore files: https://github.com/github/gitignore
 /bower_components/
-/node_modules/grunt
-/node_modules/less
-/node_modules/changelog.md
-/node_modules/gruntfile.js
-/node_modules/package.json
-/node_modules/readme.md
+/node_modules/bootstrap/grunt
+/node_modules/bootstrap/less
+/node_modules/bootstrap/changelog.md
+/node_modules/bootstrap/gruntfile.js
+/node_modules/bootstrap/package.json
+/node_modules/bootstrap/readme.md
