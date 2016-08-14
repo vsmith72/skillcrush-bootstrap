@@ -4,6 +4,8 @@
 /bower_components/
 /node_modules/bootstrap/grunt
 /node_modules/bootstrap/less
+/node_modules/bootstrap/fonts
+/node_modules/bootstrap/js
 /node_modules/bootstrap/CHANGELOG.md
 /node_modules/bootstrap/Gruntfile.js
 /node_modules/bootstrap/package.json
