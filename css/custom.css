@@ -1,0 +1,23 @@
+body {
+  background-color: aliceblue;
+}
+h1 {
+  color: cornflowerblue;
+}
+p {
+  color: #848484;
+}
+.jumbotron h1 {
+  color: cornflowerblue;
+}
+.jumbotron p {
+  color: cornflowerblue;
+}
+.btn-custom {
+  background-color: cornflowerblue;
+  color: white;
+}
+.btn-custom:hover {
+  background-color: aliceblue;
+  color: cornflowerblue;
+}
